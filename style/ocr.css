@@ -26,6 +26,12 @@ progress {
 progress[value="1"] {
   opacity: 0.5;
 }
+.jumbotron{
+  margin-bottom:0px;
+}
+.jumbotron .row{
+  margin: 0px;
+}
 select {
   padding: 12px 5px;
   width: 209px;
